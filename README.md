@@ -25,8 +25,8 @@ I'm Astardev, a laid-back coder who loves building digital worlds and scripts.
 ---
 
 ### 📫 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-%40astardev-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/653252695288840192)
-[![GitHub](https://img.shields.io/badge/GitHub-astardev33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astardev33)
+[![Discord](https://img.shields.io/badge/Discord-@astardev-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/653252695288840192)  
+[![GitHub](https://img.shields.io/badge/GitHub-astardev33-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astardev33)
 
 ---
 
