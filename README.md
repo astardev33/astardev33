@@ -14,7 +14,7 @@ I'm Astardev, a laid-back coder who loves building digital worlds and scripts.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-55AA55?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/) 
-[![FiveM](https://img.shields.io/badge/FiveM-FF5522?style=flat-square&logo=none&logoColor=white)](https://fivem.net/) 
+[![FiveM](https://img.shields.io/badge/FiveM-2C2D72?style=flat-square&logo=none&logoColor=white)](https://fivem.net/) 
 
 ---
 
