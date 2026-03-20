@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Astardev 😎
 
-<!--
-**astardev33/astardev33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a human exploring code, coffee, and random ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Quick Bits
+- 🖥️ Building stuff that (sometimes) works
+- 🌱 Learning new tech & breaking old habits
+- 🎵 Music addict & playlist curator
+- 🎮 Low-key gamer when no one's watching
+
+---
+
+### 🛠️ My Playground
+```text
+Front-end → React, Tailwind
+Back-end  → Node.js, Python
+Other     → Git, Docker, Linux
