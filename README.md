@@ -1,19 +1,31 @@
-# Hey, I'm Astardev 😎
+# Hey! 👋
 
-Just a human exploring code, coffee, and random ideas.
-
----
-
-### ⚡ Quick Bits
-- 🖥️ Building stuff that (sometimes) works
-- 🌱 Learning new tech & breaking old habits
-- 🎵 Music addict & playlist curator
-- 🎮 Low-key gamer when no one's watching
+I'm Astardev, a laid-back coder who loves building digital worlds and scripts.  
 
 ---
 
-### 🛠️ My Playground
-```text
-Front-end → React, Tailwind
-Back-end  → Node.js, Python
-Other     → Git, Docker, Linux
+### 🛠️ Skills
+- **Languages:** Python, Java, HTML, CSS  
+- **Learning:** Lua, JavaScript  
+- **Specialty:** Creating and customizing **Minecraft** & **FiveM** servers  
+
+---
+
+### 🎮 Favorite Projects
+- Custom Minecraft servers with plugins and mods  
+- Scripts and tweaks for FiveM servers  
+- Random experiments to learn and practice new stuff  
+
+---
+
+### ⚡ About Me
+- I love experimenting with new ideas and trying crazy things on my servers  
+- Always improving my skills and learning something new every day  
+
+---
+
+### 📫 Contact Me
+- Discord: @astardev
+- GitHub: [astardev33](https://github.com/astardev33)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astardev33&show_icons=true&theme=dracula)
