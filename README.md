@@ -5,16 +5,16 @@ I'm Astardev, a laid-back coder who loves building digital worlds and scripts.
 ---
 
 ### 🛠️ Skills
-- **Languages:** Python, Java, HTML, CSS  
-- **Learning:** Lua, JavaScript  
-- **Specialty:** Creating and customizing **Minecraft** & **FiveM** servers  
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/) 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-### 🎮 Favorite Projects
-- Custom Minecraft servers with plugins and mods  
-- Scripts and tweaks for FiveM servers  
-- Random experiments to learn and practice new stuff  
+[![Minecraft](https://img.shields.io/badge/Minecraft-55AA55?style=flat-square&logo=minecraft&logoColor=white)](https://www.minecraft.net/) 
+[![FiveM](https://img.shields.io/badge/FiveM-FF5522?style=flat-square&logo=none&logoColor=white)](https://fivem.net/) 
 
 ---
 
