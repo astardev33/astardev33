@@ -10,8 +10,6 @@ I build scripts, tools, and small digital worlds around Minecraft, FiveM, and we
 &nbsp;&nbsp;
 <a href="https://x.com/astard3v"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="22" alt="X" /></a>
 
-<br><br>
-
 <a href="https://discord.gg/WKvYpuSQuU">
   <img src="https://img.shields.io/badge/Join%20my%20Discord%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" />
 </a>
