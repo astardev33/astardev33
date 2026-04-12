@@ -2,7 +2,7 @@
 
 # Hey, I'm Astardev
 
-I build scripts, tools, and small digital worlds around Minecraft, FiveM, and web experiments.
+Student & Software Developer — Astardev, 2006, building stuff.
 
 <a href="https://github.com/astardev33"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" /></a>
 &nbsp;&nbsp;
@@ -20,9 +20,9 @@ I build scripts, tools, and small digital worlds around Minecraft, FiveM, and we
 
 ## About me
 
-- I like building practical systems for servers, communities, and gameplay ideas.
-- I enjoy experimenting with scripts, automation, and backend logic.
-- I am always improving my stack and turning random ideas into usable projects.
+- I like building useful tools and systems for servers, communities, or just fun ideas.
+- I enjoy messing around with scripts, automation, and backend stuff.
+- I’m always learning new things and turning random ideas into actual projects.
 
 ## Tech stack
 
