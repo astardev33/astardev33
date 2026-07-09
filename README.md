@@ -10,7 +10,7 @@ Student & Software Developer — Astardev, 2006, building stuff.
 &nbsp;&nbsp;
 <a href="https://x.com/astard3v"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="22" alt="X" /></a>
 
-<a href="https://discord.gg/WKvYpuSQuU">
+<a href="https://discord.gg/avKecCtv6H">
   <img src="https://img.shields.io/badge/Join%20my%20Discord%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" />
 </a>
 
@@ -39,17 +39,6 @@ Student & Software Developer — Astardev, 2006, building stuff.
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white)
 ![Servers](https://img.shields.io/badge/Server%20Scripting-111827?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-2563EB?style=flat-square)
-
-## GitHub stats
-
-<div align="center">
-
-![Astardev GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astardev33&theme=dracula)
-
-![Astardev GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astardev33&theme=dracula)
-![Astardev most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astardev33&theme=dracula)
-
-</div>
 
 ---
 
