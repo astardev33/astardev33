@@ -8,7 +8,6 @@ Software Developer & Project Manager — Astardev, building stuff.
 &nbsp;&nbsp;
 <a href="https://discord.com/users/653252695288840192"><img src="https://cdn.simpleicons.org/discord/5865F2" width="22" alt="Discord" /></a>
 &nbsp;&nbsp;
-<a href="https://x.com/astard3v"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="22" alt="X" /></a>
 
 <a href="https://discord.gg/avKecCtv6H">
   <img src="https://img.shields.io/badge/Join%20my%20Discord%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" />
