@@ -18,12 +18,6 @@ Software Developer & Project Manager — Astardev, 2006, building stuff.
 
 ---
 
-## About me
-
-- I like building useful tools and systems for servers, communities, or just fun ideas.
-- I enjoy messing around with scripts, automation, and backend stuff.
-- I’m always learning new things and turning random ideas into actual projects.
-
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
