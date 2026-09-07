@@ -2,7 +2,7 @@
 
 # Hey, I'm Astardev
 
-Junior Developer & IT Technician
+Junior Developer & IT Technician.
 
 <a href="https://github.com/astardev33"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" /></a>
 &nbsp;&nbsp;
